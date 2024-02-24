@@ -13,7 +13,9 @@
 
 ## Part 1: Deploying the Flask application locally
 ### Step 1: Clone the code
-' Clone the code from the repository: '
+' inline code
+Clone the code from the repository: 
+'
 
 git clone <repository_url>
 Step 2: Install dependencies
