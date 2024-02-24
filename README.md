@@ -9,7 +9,7 @@
 4.Create ECR repository using Python Boto3 and pushing Docker Image to ECR  
 5.Learn Kubernetes and Create EKS cluster and Nodegroups  
 6.Create Kubernetes Deployments and Services using Python!  
-## ✨Let’s Start the Project ✨  
+# ✨Let’s Start the Project ✨  
 
 ## Part 1: Deploying the Flask application locally
 ### Step 1: Clone the code  
@@ -19,7 +19,7 @@ Clone the code from the repository:
 git clone <repository_url>
 ```
 Step 2: Install dependencies  
-The application uses the *** psutil *** and *** Flask ***, Plotly, boto3 libraries. Install them using pip:  
+The application uses the ***psutil*** and ***Flask***, Plotly, boto3 libraries. Install them using pip:  
 ```
 pip3 install -r requirements.txt
 ```
@@ -28,4 +28,4 @@ To run the application, navigate to the root directory of the project and execut
 ```
 python3 app.py
 ```
-This will start the Flask server on localhost:5000. Navigate to [Link Text](http://localhost:5000/) on your browser to access the application.
+This will start the Flask server on localhost:5000. Navigate to ***http://localhost:5000/*** on your browser to access the application.
