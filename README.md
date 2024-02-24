@@ -12,12 +12,12 @@
 ## ✨Let’s Start the Project ✨  
 
 ## Part 1: Deploying the Flask application locally
-### Step 1: Clone the code
-'''python
-Clone the code from the repository: 
-'''
+### Step 1: Clone the code  
+Clone the code from the repository:   
 
+```bash
 git clone <repository_url>
+```
 Step 2: Install dependencies
 The application uses the psutil and Flask, Plotly, boto3 libraries. Install them using pip:
 
