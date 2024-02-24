@@ -2,10 +2,10 @@
 1.Python and How to create Monitoring Application in Python using Flask and psutil.  
 2.How to run a Python App locally.  
 3.Learn Docker and How to containerize a Python application  
-    i.Creating Dockerfile  
-    ii.Building DockerImage  
-    iii.Running Docker Container  
-    iv.Docker Commands  
+&nbsp;i.Creating Dockerfile  
+&nbsp;ii.Building DockerImage  
+&nbsp;iii.Running Docker Container  
+&nbsp;iv.Docker Commands  
 4.Create ECR repository using Python Boto3 and pushing Docker Image to ECR  
 5.Learn Kubernetes and Create EKS cluster and Nodegroups  
 6.Create Kubernetes Deployments and Services using Python!  
