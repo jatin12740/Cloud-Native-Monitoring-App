@@ -13,7 +13,7 @@
 
 ## Part 1: Deploying the Flask application locally
 ### Step 1: Clone the code
-' inline code
+'''python
 Clone the code from the repository: 
 '
 
